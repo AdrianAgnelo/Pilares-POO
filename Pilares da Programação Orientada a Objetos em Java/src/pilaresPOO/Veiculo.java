@@ -1,4 +1,4 @@
-package encapsulamento;
+package pilaresPOO;
 
 public abstract class Veiculo {
     private String chassi;
